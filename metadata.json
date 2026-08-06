@@ -1,0 +1,8 @@
+{
+  "name": "Ultimate Fruit Ninja Game",
+  "description": "A fully playable Fruit Ninja style game with a login system, 100 progressive levels, settings, themes, vibration support, tutorial, local leaderboard, achievements, and interactive powerups.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

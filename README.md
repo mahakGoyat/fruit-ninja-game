@@ -4,6 +4,7 @@
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+<img width="1363" height="590" alt="fruit ninja" src="https://github.com/user-attachments/assets/2de202d8-1cff-491b-890a-5ef611698c13" />
 
 ---
 
